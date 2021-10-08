@@ -1,0 +1,7 @@
+{
+    "problems.decorations.enabled": false,
+    "explorer.sortOrder": "type",
+    "java.project.sourcePaths": [
+        "zcode"
+    ]
+}
